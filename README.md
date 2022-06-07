@@ -2,8 +2,15 @@
 <h1>Hello! I'm <a href="https://vk.com/mzjob" target="_blank">Michael </a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=30&duration=6000&color=2F1BFB&background=7CFFF000&vCenter=true&lines=I'm+learning+Java+language;and+other+tehnologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&color=3655F7&width=800&lines=I'm+learning+Java+language+and+other+tehnologies)](https://git.io/typing-svg)
+<br />
 
+- 💼 I study in Politehnical University of St. Petersburg.
+- 💬 Ask me anything, I'm happy to help. [My email](mailto:horsman@mail.ru)
+- 👏 View me on [Linkedin](https://www.linkedin.com/in/michael-zalogin-45876622b/)
+<br />
+
+<img align="right" alt="GIF" src="assets/animations/programmer.gif" width="350" />
 
 ___
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
