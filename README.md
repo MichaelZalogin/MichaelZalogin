@@ -1,3 +1,4 @@
+<img src="assets/banner/banner.png" width="100%" />
 <h1>Hello! I'm <a href="https://vk.com/mzjob" target="_blank">Michael </a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 
 
