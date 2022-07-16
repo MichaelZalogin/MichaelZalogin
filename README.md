@@ -26,3 +26,13 @@ ___
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+<details>
+  <summary> 📈 GitHub Stats </summary>
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=MichaelZalogin&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelZalogin&layout=compact&langs_count=10&hide_border=true&theme=radical&hide=sass,makefile,shell,mustache" />
+</details>
+<details>
+  <summary> ⚡ GitHub Activity</summary>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dmytrii Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MichaelZalogin&bg_color=151222&color=F8D866&line=7EEAF4&point=FFFFFF&hide_border=true" /></a>
+</details>
