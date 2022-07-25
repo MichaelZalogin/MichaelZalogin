@@ -1,9 +1,9 @@
-<img src="assets/banner/banner.png" width="100%" />
+<img src="assets/banner/banner2.jpg" width="100%" />
 <h1>Hello! I'm <a href="https://vk.com/mzjob" target="_blank">Michael </a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&color=3655F7&width=800&lines=I'm+learning+Java+language+and+other+tehnologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&color=3655F7&width=800&lines=I'm+learning+Java+language+and+different+tehnologies)](https://git.io/typing-svg)
 <br />
 - 💼 I study in Politehnical University of St. Petersburg.
 - 💬 Ask me anything, I'm happy to help. [My email](mailto:horsman@mail.ru)
