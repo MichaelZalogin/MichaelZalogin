@@ -46,3 +46,5 @@ ___
   <summary> ⚡ GitHub Activity</summary>
   <img alt="Michael's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MichaelZalogin&bg_color=151222&color=F8D866&line=7EEAF4&point=FFFFFF&hide_border=true" /></a>
 </details>
+
+<img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="30"/>
