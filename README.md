@@ -38,14 +38,13 @@ ___
 <img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="30"/>
 
 ## 🛠️ My favorite tools
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"><a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"><a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" width="70"></a>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-AD29B6.svg?logo=markdown&logoColor=white" width="90"></a>
-
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" width="70"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-AD29B6.svg?logo=markdown&logoColor=white" width="90"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
