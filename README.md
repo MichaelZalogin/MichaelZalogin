@@ -19,8 +19,8 @@
 
 <details>
   <summary> 📈 GitHub Stats </summary>
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=MichaelZalogin&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelZalogin&layout=compact&langs_count=10&hide_border=true&theme=radical&hide=sass,makefile,shell,mustache" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MichaelZalogin&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelZalogin&layout=compact&langs_count=3&hide_border=true&theme=radical&hide=sass,makefile,shell,mustache" />
 </details>
 
 <details>
