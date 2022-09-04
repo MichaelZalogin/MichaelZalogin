@@ -2,7 +2,6 @@
 <h1>Hello! I'm <a href="https://vk.com/mzjob" target="_blank">Michael </a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&color=3655F7&width=800&lines=I'm+learning+Java+language+and+different+tehnologies)](https://git.io/typing-svg)
 <br />
 - 💼 I study in Politehnical University of St. Petersburg.
@@ -12,17 +11,11 @@
 
 <img align="right" alt="GIF" src="assets/animations/programmer.gif" width="350" />
 
-___
-
-
 ## 📊 Github stats
 
-<details>
+
   <summary> 🔥 GitHub Streak </summary>
-<p align="center">
     <img title= alt="Michael's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelZalogin&theme=monokai-metallian&hide_border=true"/>
-</p>
-</details>
 
 <details>
   <summary> 📈 GitHub Stats </summary>
@@ -42,7 +35,6 @@ ___
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" width="70"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-AD29B6.svg?logo=markdown&logoColor=white" width="90"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
