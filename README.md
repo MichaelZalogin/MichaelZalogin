@@ -39,4 +39,10 @@
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?logo=IntelliJIDEA&logoColor=FFFFFF"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Apache Maven-C71A36.svg?logo=Apache Maven&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
