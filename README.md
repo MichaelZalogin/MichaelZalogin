@@ -6,7 +6,7 @@
 <br />
 - 💼 I study in Politehnical University of St. Petersburg.
 - 💬 Ask me anything, I'm happy to help. [My email](mailto:horsman@mail.ru)
-- 👏 View me on [Linkedin](https://www.linkedin.com/in/michael-zalogin-45876622b/)
+- 👏 View me on [Linkedin]()
 <br />
 
 <img align="right" alt="GIF" src="assets/animations/programmer.gif" width="350" />
