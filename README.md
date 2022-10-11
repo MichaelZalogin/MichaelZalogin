@@ -6,7 +6,7 @@
 <br />
 - 💼 I study in Politehnical University of St. Petersburg.
 - 💬 Ask me anything, I'm happy to help. [My email](mailto:horsman@mail.ru)
-- 👏 View me on [Linkedin]()
+- 👏 Connect with me: [Linkedin]()
 <br />
 
 <img align="right" alt="GIF" src="assets/animations/programmer.gif" width="350" />
@@ -47,4 +47,4 @@
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 
-[![👀](https://api.visitorbadge.io/api/visitors?path=MichaelZalogin&label=👀&labelColor=%231f1e34&countColor=%231f1e34&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=MichaelZalogin)
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=MichaelZalogin alt=MichaelZalogin/> </p>
