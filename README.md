@@ -1,11 +1,10 @@
-
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello+I'm+Michael!😊&fontSize=75&animation=scaleIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello+I'm+Michael!😊&fontSize=75&animation=scaleIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&color=3655F7&width=800&lines=I'm+learning+Java+language+and+different+tehnologies)](https://git.io/typing-svg)
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="30" loading="lazy"/> Connect with me  
 
-<img align='right' height='230' style="margin-top:15px; margin-right:40px; margin-left:1px; margin-bottom:1px" src='assets/animations/infotech.gif' alt='Social Networks'>
+<img align='right' height='160' style="margin-top:15px; margin-right:20px; margin-left:1px; margin-bottom:1px" src='assets/animations/infotech.gif' alt='Social Networks'>
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4] 
 [![Gmail][5.2]][5] [![vk][6.2]][6]
@@ -31,7 +30,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30" loading="lazy"/> My Projects
 
-<img align='right' height='350' style="margin-top:50px; margin-right:20px; margin-left:1px; margin-bottom:100px" src='assets/animations/programmer.gif' alt='thinking'> 
+<img align='right' height='240' style="margin-top:20px; margin-right:10px; margin-left:1px; margin-bottom:100px" src='assets/animations/programmer.gif' alt='thinking'> 
 
 *зарезервировано под будущие проекты
 <p align="left">
