@@ -3,11 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&color=3655F7&width=800&lines=I'm+learning+Java+language+and+different+tehnologies)](https://git.io/typing-svg)
 
+# <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="30" loading="lazy"/> Connect with me  
 
-# 📘 Connect with me  
-
-
-<img align='right' height='160' style="margin-right:20px" src='assets/animations/infotech.gif' alt='Social Networks'>
+<img align='right' height='230' style="margin-top:15px; margin-right:40px; margin-left:1px; margin-bottom:1px" src='assets/animations/infotech.gif' alt='Social Networks'>
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4] 
 [![Gmail][5.2]][5] [![vk][6.2]][6]
@@ -26,22 +24,25 @@
 [5]: mailto:zaloginmiha@gmail.com
 [6]: https://vk.com/mzjob
 
-
 <br></br>
 <p align = left>
 <img src=https://komarev.com/ghpvc/?username=MichaelZalogin alt=MichaelZalogin/></p>
-
 <br>
 
-# 📘 My Projects
+# <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30" loading="lazy"/> My Projects
 
+<img align='right' height='350' style="margin-top:50px; margin-right:20px; margin-left:1px; margin-bottom:100px" src='assets/animations/programmer.gif' alt='thinking'> 
+
+*зарезервировано под будущие проекты
 <p align="left">
 
   <a href="https://github.com/MichaelZalogin/job4j_tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=job4j_tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tracker"></a>
-  
-
+  <a href="https://github.com/MichaelZalogin/job4j_tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=job4j_tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tracker"></a>
+  <a href="https://github.com/MichaelZalogin/job4j_tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=job4j_tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tracker"></a>
+  <a href="https://github.com/MichaelZalogin/job4j_tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=job4j_tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tracker"></a>
 
 <br></br>
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="30"/> My favorite tools
 
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -60,7 +61,6 @@
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 
-
 <br></br>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643515222/12408/meow_fat.gif?1643515222" width="35"/>  My GitHub stats
@@ -71,7 +71,6 @@
     <img title= alt="Michael's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelZalogin&theme=monokai-metallian"/>
   </p>
     </details>
-
 
 <details>
   <summary> 📈 GitHub Stats </summary>
@@ -86,6 +85,4 @@
   <img alt="Michael's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MichaelZalogin&bg_color=151222&color=F8D866&line=7EEAF4&point=FFFFFF&hide_border=true" /></a>
 </details>
 
-
-
-![soft](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=100&text=Come%20again!😃&fontSize=40&fontAlignY=80&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=130&text=Come%20again!😃&fontSize=40&fontAlignY=80&animation=twinkling)
