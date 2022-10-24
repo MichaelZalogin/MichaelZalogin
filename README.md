@@ -88,4 +88,4 @@
 
 
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=100&text=Come%20again!😃&fontSize=40&fontAlignY=80&animation=twinkling)
