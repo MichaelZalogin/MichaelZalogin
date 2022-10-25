@@ -6,8 +6,8 @@
 
 <img align='right' height='160' style="margin-top:15px; margin-right:20px; margin-left:1px; margin-bottom:1px" src='assets/animations/infotech.gif' alt='Social Networks'>
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4] 
-[![Gmail][5.2]][5] [![vk][6.2]][6]
+ [![Telegram][4.2]][4] [![vk][6.2]][6] [![Gmail][5.2]][5] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] 
+ [![Twitter][1.2]][1]
 
 [1.2]: assets/icons/twitter.png
 [2.2]: assets/icons/linkedin.png
