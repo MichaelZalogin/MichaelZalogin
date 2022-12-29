@@ -73,7 +73,7 @@
 
 <details>
   <summary> 📈 GitHub Stats </summary>
-    <div align="center">
+   <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MichaelZalogin&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelZalogin&layout=compact&langs_count=3&hide_border=true&theme=radical&hide=sass,makefile,shell,mustache" />
    </div>
@@ -81,7 +81,7 @@
 
 <details>
   <summary> ⚡ GitHub Activity</summary>
-  <img alt="Michael's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MichaelZalogin&bg_color=151222&color=F8D866&line=7EEAF4&point=FFFFFF&hide_border=true" /></a>
+  <img alt="Michael's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MichaelZalogin&bg_color=151222&color=F8D866&line=7EEAF4&point=FFFFFF&hide_border=true"/>
 </details>
 
 ![soft](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=130&text=Come%20again!😃&fontSize=40&fontAlignY=80&animation=twinkling)
