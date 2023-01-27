@@ -45,18 +45,22 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="30"/> My favorite tools
 
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Apache Maven-C71A36.svg?logo=Apache Maven&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?logo=Apache-Tomcat&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="curl" src="https://img.shields.io/badge/Curl-0735515.svg?logo=curl&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-AD29B6.svg?logo=markdown&logoColor=white" width="90"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?logo=IntelliJIDEA&logoColor=FFFFFF"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Apache Maven-C71A36.svg?logo=Apache Maven&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 
