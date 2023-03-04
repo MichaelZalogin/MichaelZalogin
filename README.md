@@ -6,7 +6,7 @@
 
 <img align='right' height='160' style="margin-top:15px; margin-right:20px; margin-left:1px; margin-bottom:1px" src='assets/animations/infotech.gif' alt='Social Networks'>
 
- [![Telegram][4.2]][4] [![vk][6.2]][6] [![Gmail][5.2]][5] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] 
+ [![Telegram][4.2]][4] [![VK][6.2]][6] [![GMail][5.2]][5] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] 
  [![Twitter][1.2]][1]
 
 [1.2]: assets/icons/twitter.png
@@ -41,7 +41,6 @@
   <a href="https://github.com/MichaelZalogin/job4j_tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=job4j_tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tracker"></a>
 
 <br></br>
-
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="30"/> My favorite tools
 
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -81,7 +80,8 @@
 
 <details>
   <summary> ⚡ GitHub Activity</summary>
-  <img alt="Michael's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MichaelZalogin&bg_color=151222&color=F8D866&line=7EEAF4&point=FFFFFF&hide_border=true" /></a>
+   
+  <img alt="Michael's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MichaelZalogin&bg_color=151222&color=F8D866&line=7EEAF4&point=FFFFFF&hide_border=true"/>
 </details>
 
 ![soft](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=130&text=Come%20again!😃&fontSize=40&fontAlignY=80&animation=twinkling)
