@@ -41,7 +41,7 @@
   <a href="https://github.com/MichaelZalogin/job4j_tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=job4j_tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tracker"></a>
 
 <br></br>
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="30"/> My favorite tools
+### <img src="https://github.com/MichaelZalogin/MichaelZalogin/tree/main/assets/animations/Developer.gif" width="45" /> My favorite tools
 
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -61,7 +61,7 @@
 
 <br></br>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643515222/12408/meow_fat.gif?1643515222" width="35"/>  My GitHub stats
+# <img src="https://github.com/MichaelZalogin/MichaelZalogin/tree/main/assets/animations/gitHub.gif" width="25"/>  My GitHub stats
 
 <details>
   <summary> 🔥 GitHub Streak </summary>
