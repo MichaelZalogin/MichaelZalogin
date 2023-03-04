@@ -28,7 +28,7 @@
 <img src=https://komarev.com/ghpvc/?username=MichaelZalogin alt=MichaelZalogin/></p>
 <br>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30" loading="lazy"/> My Projects
+# <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30" loading="lazy"/> Projects
 
 <img align='right' height='240' style="margin-top:60px; margin-right:10px; margin-left:1px; margin-bottom:100px" src='assets/animations/programmer.gif' alt='thinking'> 
 
@@ -41,7 +41,7 @@
   <a href="https://github.com/MichaelZalogin/job4j_tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=job4j_tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tracker"></a>
 
 <br></br>
-### <img src="https://github.com/MichaelZalogin/MichaelZalogin/tree/main/assets/animations/Developer.gif" width="45" /> My favorite tools
+# <img src="https://github.com/MichaelZalogin/MichaelZalogin/blob/main/assets/animations/Developer.gif" width="55" /> Favorite tools
 
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -61,7 +61,7 @@
 
 <br></br>
 
-# <img src="https://github.com/MichaelZalogin/MichaelZalogin/tree/main/assets/animations/gitHub.gif" width="25"/>  My GitHub stats
+# <img src="https://github.com/MichaelZalogin/MichaelZalogin/blob/main/assets/animations/gitHub.gif" width="40"/> GitHub stats
 
 <details>
   <summary> 🔥 GitHub Streak </summary>
@@ -85,5 +85,3 @@
 </details>
 
 ![soft](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=130&text=Come%20again!😃&fontSize=40&fontAlignY=80&animation=twinkling)
-
-
