@@ -36,6 +36,8 @@
   <a href="https://github.com/MichaelZalogin/tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tracker"></a>
   <a href="https://github.com/MichaelZalogin/dreamjob"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=dreamjob&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dreamjob"></a>
   <a href="https://github.com/MichaelZalogin/0-02_project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=0-02_project&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="0-02_project"></a>
+  <a href="https://github.com/MichaelZalogin/0-02_project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=0-02_project&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="0-02_project"></a>
+    <a href="https://github.com/MichaelZalogin/0-02_project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=0-02_project&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="0-02_project"></a>
 
 <br></br>
 # <img src="https://github.com/MichaelZalogin/MichaelZalogin/blob/main/assets/animations/Developer.gif" width="55" /> Favorite tools
