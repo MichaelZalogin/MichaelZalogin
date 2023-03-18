@@ -30,9 +30,6 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30" loading="lazy"/> Projects
 
-<img align='right' height='240' style="margin-top:60px; margin-right:10px; margin-left:1px; margin-bottom:100px" src='assets/animations/programmer.gif' alt='thinking'> 
-
-*зарезервировано под будущие проекты
 <p align="left">
 
   <a href="https://github.com/MichaelZalogin/grabber"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=grabber&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="grabber"></a>
