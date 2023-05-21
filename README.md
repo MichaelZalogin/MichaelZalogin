@@ -32,12 +32,12 @@
 
 <p align="left">
 
-  <a href="https://github.com/MichaelZalogin/landing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=landing&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="landing"></a>
+  <a href="https://github.com/MichaelZalogin/todo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=todo&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="todo"></a>
   <a href="https://github.com/MichaelZalogin/dreamjob"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=dreamjob&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dreamjob"></a>
   <a href="https://github.com/MichaelZalogin/grabber"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=grabber&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="grabber"></a>
+  <a href="https://github.com/MichaelZalogin/buy_car"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=buy_car&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="buy_car"></a>
+  <a href="https://github.com/MichaelZalogin/landing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=landing&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="landing"></a>
   <a href="https://github.com/MichaelZalogin/tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tracker"></a>
-  <a href="https://github.com/MichaelZalogin/todo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=todo&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="todo"></a>
-  <a href="https://github.com/MichaelZalogin/design"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=design&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="design"></a>
 
 <br></br>
 # <img src="https://github.com/MichaelZalogin/MichaelZalogin/blob/main/assets/animations/Developer.gif" width="55" /> Favorite tools
