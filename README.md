@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello+I'm+Michael!😊&fontSize=75&animation=scaleIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&c&color=40:ADD8E6,100:00008B&height=256&section=header&text=Hello+I'm+Michael!😊&fontSize=75&animation=scaleIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&color=3655F7&width=800&lines=I'm+learning+Java+language+and+different+tehnologies)](https://git.io/typing-svg)
 
@@ -40,24 +40,30 @@
   <a href="https://github.com/MichaelZalogin/tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelZalogin&repo=tracker&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tracker"></a>
 
 <br></br>
+
 # <img src="https://github.com/MichaelZalogin/MichaelZalogin/blob/main/assets/animations/Developer.gif" width="55" /> Favorite tools
 
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-AD29B6.svg?logo=markdown&logoColor=white" width="90"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?logo=IntelliJIDEA&logoColor=FFFFFF"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Apache Maven-C71A36.svg?logo=Apache Maven&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMichaelZalogin+MichaelZalogin"> <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white" width="55"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" width="63"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" width="82"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" width="93"></a>
+<a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" width="53"></a>
+<a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white" width="54"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-F05033.svg?logo=git&logoColor=white" width="45"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
+<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?logo=IntelliJIDEA&logoColor=FFFFFF"></a>
+<a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
+<a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=Apache Maven&logoColor=white"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-AD29B6.svg?logo=markdown&logoColor=white" width="89"></a>
 
+</p>
 <br></br>
 
 # <img src="https://github.com/MichaelZalogin/MichaelZalogin/blob/main/assets/animations/gitHub.gif" width="40"/> GitHub stats
@@ -83,4 +89,4 @@
   <img alt="Michael's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MichaelZalogin&bg_color=151222&color=F8D866&line=7EEAF4&point=FFFFFF&hide_border=true"/>
 </details>
 
-![soft](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=130&text=Come%20again!😃&fontSize=40&fontAlignY=80&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=waving&color=40:ADD8E6,100:00008B&section=footer&height=130&text=Come%20again!😃&fontSize=40&fontAlignY=80&animation=twinkling)
